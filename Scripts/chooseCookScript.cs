@@ -21,7 +21,7 @@ public class chooseCookScript : MonoBehaviour
     }
 
     public void movePlay() {
-        gridPosition = new Vector2Int(4, 2);
+        gridPosition = new Vector2Int(3, 3);
         //transform.position = new Vector4(gridPosition2.x,gridPosition2.y);
 
     }
