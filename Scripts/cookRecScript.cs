@@ -25,4 +25,10 @@ public class cookRecScript : MonoBehaviour
         //transform.position = new Vector4(gridPosition2.x,gridPosition2.y);
 
     }
+
+    public void moveAway() {
+        gridPosition = new Vector2Int(-10,-10);
+        //transform.position = new Vector4(gridPosition2.x,gridPosition2.y);
+
+    }
 }
